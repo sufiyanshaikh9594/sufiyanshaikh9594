@@ -1,0 +1,128 @@
+ body{
+  background-color: gray;
+  height: 500vh
+}
+
+.Topic{
+  color: wheat;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+.s8ul{
+  text-align: center;
+  
+}
+.Mortal{
+  color: wheat;
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 100px;
+}
+.Mortalpic{
+  
+  text-align: center;
+  
+}
+.MortalIDs{
+  padding-top: 45px;
+  
+  padding-left: 250px;
+  color: wheat;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 55px;
+  display: inline-block;
+  text-align: center;
+  
+}
+a{
+  
+  color: lightblue;
+  text-align: center;
+  
+}
+ 
+.MAMBA 
+ {
+   color: wheat;
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 100px;
+  padding-bottom: 60px;
+  
+ }
+.MAMBApic{
+   
+   text-align: center;
+   
+ }
+ .MambaIDs{
+  padding-top: 45px;
+  padding-left: 250px;
+  color: wheat;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 55px;
+  display: inline-block;
+  text-align: center;
+  padding-bottom: 50px;
+
+}
+
+.s8ul{
+  color: wheat;
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 50px;
+}
+
+.s8ulimg{
+  
+ text-align: center;
+}
+
+.s8ulyt{
+  
+  padding-top: 45px;
+  
+  padding-left: 225px;
+  color: wheat;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 70px;
+  display: inline-block;
+  text-align: center;
+  padding-bottom: 50px;
+
+}
+.goldyname{
+  
+    color: wheat;
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.goldypic{
+  
+  text-align: center;
+}
+
+.goldyID{
+  
+  padding-top: 45px;
+  
+  padding-left: 250px;
+  color: wheat;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 55px;
+  display: inline-block;
+  text-align: center;
+  
+  
+}
+
